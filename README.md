@@ -35,7 +35,7 @@ There are 2 methods to download the project
    cd snake_MATLAB
    ````
 #### Download as ZIP
-1. Go to [1]:<https://github.com/Woodentree808/snake_MATLAB>
+1. Go to [1]: <https://github.com/Woodentree808/snake_MATLAB>
 2. Click the green "Code" button.
 3. Select "Download ZIP".
 4. Extract the downloaded ZIP file to your desired location.
@@ -73,6 +73,8 @@ Contributions are welcome! If you have any improvements or bug fixes, please sub
    git push origin feature/AmazingFeature
    ````
 8. Open a pull request
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Woodentree808/snake_MATLAB/blob/main/LICENSE) file for details.
 ## Acknowledgments
 * Thanks to the MATLAB community for providing helpful resources and support.
 * Inspired by the classic Snake game available on many early mobile phones and computers.
